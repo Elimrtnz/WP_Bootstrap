@@ -47,6 +47,6 @@ publish
 #css/*.css
 
 # assets folders
-assets/img
+assets/img/*
 
 
