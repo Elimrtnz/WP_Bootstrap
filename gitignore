@@ -46,4 +46,7 @@ publish
 .idea
 #css/*.css
 
+# assets folders
+assets/img
+
 
